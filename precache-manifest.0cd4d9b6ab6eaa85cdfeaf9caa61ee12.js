@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "056415289b7124e8d069b42d5c416fec",
+    "revision": "8f7851f54f116a7fd67ed3bee03190fb",
     "url": "https://xiejiahe.gitee.io/tomato-work/index.html"
   },
   {
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://xiejiahe.gitee.io/tomato-work/static/css/5.36d616cc.chunk.css"
   },
   {
-    "revision": "30883867b5acc4e01c02",
+    "revision": "e00f4f8418a0a1074a80",
     "url": "https://xiejiahe.gitee.io/tomato-work/static/css/main.c1a9cd9c.chunk.css"
   },
   {
@@ -44,8 +44,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://xiejiahe.gitee.io/tomato-work/static/js/6.13c0f21e.chunk.js"
   },
   {
-    "revision": "30883867b5acc4e01c02",
-    "url": "https://xiejiahe.gitee.io/tomato-work/static/js/main.91071310.chunk.js"
+    "revision": "e00f4f8418a0a1074a80",
+    "url": "https://xiejiahe.gitee.io/tomato-work/static/js/main.532e9311.chunk.js"
   },
   {
     "revision": "55e83b6c400325b52688",
