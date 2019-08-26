@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "391bc76be51c34910bd36d736a9d0f20",
+    "revision": "91db4e94d5736632f8af98c1058fc722",
     "url": "https://xiejiahe.gitee.io/tomato-work/index.html"
   },
   {
-    "revision": "7721ae432bee5e36cf54",
-    "url": "https://xiejiahe.gitee.io/tomato-work/static/css/2.db60d2ef.chunk.css"
+    "revision": "38f0db6d05c9142af9a6",
+    "url": "https://xiejiahe.gitee.io/tomato-work/static/css/2.d633955a.chunk.css"
   },
   {
     "revision": "fd179c8457cd709dc780",
@@ -20,12 +20,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://xiejiahe.gitee.io/tomato-work/static/css/5.36d616cc.chunk.css"
   },
   {
-    "revision": "e6dd2639657f6cc08302",
-    "url": "https://xiejiahe.gitee.io/tomato-work/static/css/main.e574b2e5.chunk.css"
+    "revision": "1095e06d41e7f2f4f6e3",
+    "url": "https://xiejiahe.gitee.io/tomato-work/static/css/main.9026c222.chunk.css"
   },
   {
-    "revision": "7721ae432bee5e36cf54",
-    "url": "https://xiejiahe.gitee.io/tomato-work/static/js/2.20aac125.chunk.js"
+    "revision": "38f0db6d05c9142af9a6",
+    "url": "https://xiejiahe.gitee.io/tomato-work/static/js/2.b227d8b9.chunk.js"
   },
   {
     "revision": "fd179c8457cd709dc780",
@@ -40,16 +40,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://xiejiahe.gitee.io/tomato-work/static/js/5.1fb617f1.chunk.js"
   },
   {
-    "revision": "34cc794c1dae6b983ea5",
-    "url": "https://xiejiahe.gitee.io/tomato-work/static/js/6.88035619.chunk.js"
+    "revision": "a271c6cfd322a162c41e",
+    "url": "https://xiejiahe.gitee.io/tomato-work/static/js/6.b1d21e7f.chunk.js"
   },
   {
-    "revision": "e6dd2639657f6cc08302",
-    "url": "https://xiejiahe.gitee.io/tomato-work/static/js/main.9151cad0.chunk.js"
+    "revision": "1095e06d41e7f2f4f6e3",
+    "url": "https://xiejiahe.gitee.io/tomato-work/static/js/main.5f00fffd.chunk.js"
   },
   {
-    "revision": "91677a6f1d74c9349b20",
-    "url": "https://xiejiahe.gitee.io/tomato-work/static/js/runtime~main.8db4df83.js"
+    "revision": "4530558c80d038145f43",
+    "url": "https://xiejiahe.gitee.io/tomato-work/static/js/runtime~main.8c7b5022.js"
   },
   {
     "revision": "5825f033c6ff12cd1ed1f3c99dff5e4b",
